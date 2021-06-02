@@ -15,7 +15,7 @@ namespace numbers
             // double precision floating point
             double anotherRealNumber = 2.3;
 
-            Console.WriteLine(naturalNumber);
+            Console.WriteLine($"int uses {sizeof(int)} bytes and can store numbers");
         }
     }
 }
