@@ -25,6 +25,12 @@ namespace iterationstatements
             {
                 Console.WriteLine(y);
             }
+
+            string[] names = { "Do", "You", "Know", "The", "Muffin", "Man"};
+            foreach (string name in names)
+            {
+                Console.WriteLine($"{name} has {name.Length} characters.");
+            }
         }
     }
 }
