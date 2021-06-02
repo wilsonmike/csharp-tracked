@@ -11,6 +11,8 @@ namespace readline
             Console.Write("Type your age and press ENTER: ");
             string age = Console.ReadLine();
             Console.WriteLine($"Hello {firstName}, you look great for {age}.");
+            Write("Press any key combination: ");
+            
         }
     }
 }
