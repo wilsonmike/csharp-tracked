@@ -8,7 +8,11 @@ namespace selection
         {
             if (args.Length == 0)
             {
-                WriteLine("There are no arguments");
+                Console.WriteLine("There are no arguments");
+            } 
+            else
+            {
+                Console.WriteLine("There is at least one argument.");
             }
         }
     }

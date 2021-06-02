@@ -1,0 +1,16 @@
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\selection.exe
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\selection.deps.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\selection.runtimeconfig.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\selection.runtimeconfig.dev.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\selection.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\ref\selection.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\bin\Debug\net5.0\selection.pdb
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.AssemblyInfo.cs
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\ref\selection.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.pdb
+C:\Users\matth\Desktop\csharp\Code\Chapter02\selection\obj\Debug\net5.0\selection.genruntimeconfig.cache
