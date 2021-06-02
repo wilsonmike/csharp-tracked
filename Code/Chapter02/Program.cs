@@ -8,7 +8,8 @@ namespace Chapter02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double heightInMeters = 1.88;
+            Console.WriteLine($"The variable {nameof(heightInMeters)}");
         }
     }
 }
