@@ -6,7 +6,9 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            object height = 1.88;
+            object name = "Amir";
+            Console.WriteLine($"{name} is {height} meters tall.");
         }
     }
 }
