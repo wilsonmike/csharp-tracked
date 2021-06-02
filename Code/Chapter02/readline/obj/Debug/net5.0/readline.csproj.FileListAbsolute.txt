@@ -1,0 +1,16 @@
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\readline.exe
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\readline.deps.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\readline.runtimeconfig.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\readline.runtimeconfig.dev.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\readline.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\ref\readline.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\bin\Debug\net5.0\readline.pdb
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.AssemblyInfo.cs
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\ref\readline.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.pdb
+C:\Users\matth\Desktop\csharp\Code\Chapter02\readline\obj\Debug\net5.0\readline.genruntimeconfig.cache
