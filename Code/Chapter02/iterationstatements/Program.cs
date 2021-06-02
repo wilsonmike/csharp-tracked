@@ -45,6 +45,11 @@ namespace iterationstatements
                     Console.WriteLine(i);
                 }
             }
+
+            for (int row = 1; row <= 12; row++)
+            {
+                Console.WriteLine($"{row} x 12 = {row *12}");
+            }
         }
     }
 }
