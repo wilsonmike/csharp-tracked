@@ -14,6 +14,17 @@ namespace selection
             {
                 Console.WriteLine("There is at least one argument.");
             }
+
+            object o = 3;
+            int j = 4;
+            if (o is int i)
+            {
+                Console.WriteLine($"{i} x {j} = {i * j}");
+            }
+            else
+            {
+                Console.WriteLine("o is not an int so it cannot multiply");
+            }
         }
     }
 }
