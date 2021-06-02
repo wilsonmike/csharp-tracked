@@ -1,0 +1,16 @@
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.AssemblyInfo.cs
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\Chapter02.exe
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\Chapter02.deps.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\Chapter02.runtimeconfig.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\Chapter02.runtimeconfig.dev.json
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\Chapter02.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\ref\Chapter02.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\bin\Debug\net5.0\Chapter02.pdb
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\ref\Chapter02.dll
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.pdb
+C:\Users\matth\Desktop\csharp\Code\Chapter02\obj\Debug\net5.0\Chapter02.genruntimeconfig.cache
