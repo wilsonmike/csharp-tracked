@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\Chapter04\\functions\\functions.csproj": {}
+    "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\Chapter04\\functions\\functions.csproj": {
+    "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\Chapter04\\functions\\functions.csproj",
-        "projectName": "functions",
-        "projectPath": "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\Chapter04\\functions\\functions.csproj",
+        "projectUniqueName": "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
+        "projectName": "PacktLibrary",
+        "projectPath": "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\Micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\Chapter04\\functions\\obj\\",
+        "outputPath": "C:\\Users\\Micha\\Desktop\\csharp\\csharp-tracked\\Code\\chapter05\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
